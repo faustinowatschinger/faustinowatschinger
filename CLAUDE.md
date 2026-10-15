@@ -24,7 +24,7 @@
 ## Agencia (segundo plano, no en pausa)
 - Clientes: **3W** y **Altaterra**. Nada más es cliente.
 - **3W**: refrigeración industrial, empresa de su familia. Único ingreso recurrente: **1.250.000 ARS/mes**. Sistema 3W Control (SCADA+PLC+Raspberry+backend+MongoDB+app).
-- **Altaterra**: agente de IA de WhatsApp en producción. 400 USD setup (un loteo) + 50 USD por venta que pase por el agente ⚠ (falta definir cómo se mide). ⚠ Resultados y testimonio.
+- **Altaterra**: agente de IA de WhatsApp en producción en un solo loteo; la idea es extenderlo a los otros loteos. 400 USD setup (un loteo) + 50 USD por venta que pase por el agente ⚠ (falta definir cómo se mide). ⚠ Resultados y testimonio.
 - Descartados: concesionaria, Aris Propiedades (una reunión), Grupo Global. Barrio privado: caso viejo sin contacto.
 - Venta: diagnóstico gratis → plan por fases → setup + mantenimiento ⚠ (si vuelve a cobrar diagnóstico después de ~5 clientes). Sin precio cerrado antes del diagnóstico.
 - Nombres FW Diagnostic/Control/Operativa/Assistant: ya no se usan. Precios de agosto: no usar.
