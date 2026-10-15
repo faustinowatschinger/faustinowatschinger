@@ -30,6 +30,7 @@
 - Nombres FW Diagnostic/Control/Operativa/Assistant: ya no se usan. Precios de agosto: no usar.
 
 ## Marca y contenido
+- Cuentas: personal @faustinowatschinger y empresa @fwlabsllc. Web: fwlabsllc.com (solo agencia: servicios, casos 3W y Altaterra, proceso, contacto; no menciona la startup).
 - Solo Instagram: build in public de la startup + contenido de IA propio y recreado. Objetivo: referente en IA para atraer clientes/audiencia. Llamadas en frío cortadas. YouTube y vlog: no siguen.
 
 ## Riesgos a vigilar (mi análisis)
