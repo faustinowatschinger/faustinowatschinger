@@ -5,6 +5,7 @@ Análisis de los reels originales y de las herramientas: [analisis.md](analisis.
 - **Duración:** 35–45 s, con 8 a 12 tomas de 2 a 5 segundos.
 - **Formato:** corto animado en 3D estilo Pixar hecho con IA, con diálogos con voz. Al final, video real tuyo.
 - **Lo más importante:** que la historia sea tuya y verdadera. El cierre con video real ("basado en mi historia real") solo funciona si es cierto.
+- **Si todavía no llegaste a tu objetivo,** mirá la [versión honesta](#versión-honesta-si-todavía-estás-en-el-proceso): cómo usar el formato sin mostrar un éxito que no tenés.
 
 ---
 
@@ -87,6 +88,78 @@ Es una historia inventada para mostrar cómo se completa la plantilla. **Cambial
 
 - **Solo "Basado en mi historia real"**, sin CTA, como el reel A. Da más likes y menos comentarios.
 - **Comentá una palabra** para recibir algo, como los reels B y C. Necesitás tener listo lo que vas a mandar.
+
+---
+
+## Versión honesta: si todavía estás en el proceso
+
+### La idea
+
+El final con el auto no es lo que más engancha de estos videos. Lo que engancha es la tensión (alguien te subestima) y la lucha (vos solo, de noche, insistiendo). Con esa parte se identifica casi todo el que mira, porque la mayoría todavía está en el proceso, no en la meta.
+
+Si no llegaste, **cambiás el final de "lo logré" por "lo estoy logrando, seguime para ver cómo termina"**. Perdés el momento de la revancha, pero ganás algo que ellos no tienen: una historia que sigue. La gente que te sigue se vuelve parte, y cuando llegues, ese video final va a pegar mucho más porque vieron todo el camino.
+
+**Siendo realistas:** el final con el auto es una parte importante de por qué esos videos se hacen virales. Esta versión no garantiza los mismos números en el primer video. La apuesta es que crezca capítulo a capítulo.
+
+### Cuatro formas de hacerlo
+
+| Formato | Cómo termina | Por qué es honesto |
+|---|---|---|
+| **1. "Capítulo 1" (recomendado)** | El mismo arco, pero se corta en el presente: "Todavía no llegué. Seguime para ver cómo termina." | Solo mostrás lo que ya pasó. El final abierto deja a la gente con ganas de ver el siguiente. |
+| **2. El logro chico** | El clímax es un logro real aunque sea chico: el primer cliente, la primera venta, las primeras 1.000 personas. | En el reel A, el momento más emotivo no es el Lamborghini: es "¡Mi primera venta!". La cara de sorpresa funciona igual con un logro chico. |
+| **3. Tu yo del futuro** | Tu yo del futuro (más grande) aparece en tu pieza a las 3 de la mañana y te dice "seguí". Cartel: "Todavía no pasó." | El futuro aparece como lo que es, un deseo, y el cartel lo deja claro. Cuidado: si dura mucho puede quedar cursi. |
+| **4. Lo que me dijeron vs. lo que estoy haciendo** | Cada escena es una frase de alguien que dudó, seguida de vos haciéndolo igual. Termina en el presente. | Todo lo que mostrás ya pasó o está pasando. |
+
+### Ejemplo: "Capítulo 1"
+
+Usa la misma historia inventada del ejemplo de arriba. **Cambiala por tu historia real**, con tus frases, tus lugares y tus números.
+
+**[0:00] Conflicto: el asado**
+> Amigo (riéndose): "¿Vivir de videos con IA? Buscate un laburo de verdad."
+> Todos se ríen.
+
+**[0:04] El golpe**
+> Vos (bajito): "Ya van a ver."
+
+**[0:06] La lucha: tu pieza, de noche**
+> Vos: "Video treinta... cero vistas."
+> Vos: "Uno más."
+
+**[0:12] La lucha: de día y de noche** (solo si es cierto)
+🎥 Vos en tu trabajo de día, después en tu pieza a la noche
+> Vos: "Ocho horas acá... y cuatro horas acá."
+
+**[0:18] Un logro chico, pero real**
+🎥 Mirás el celular y se te escapa una sonrisa
+> Vos: "¿Mil vistas?"
+
+**[0:22] El giro: el mismo asado**
+> Amigo: "¿Y? ¿Ya sos millonario?"
+> Vos (sonriendo): "Todavía no."
+
+*Por qué:* es el momento en que el video rompe el formato. Todos esperan la revancha con el auto, y en cambio llega una respuesta honesta y con humor. Lo sorpresivo del giro reemplaza a la revancha.
+
+**[0:26] Cartel**
+📝 *"Todavía no llegué."*
+
+**[0:28] Video real: dónde estás hoy**
+🎥 Tu escritorio real, la compu, tus números reales aunque sean chicos · 📝 *"Esta es mi historia real. Y todavía la estoy escribiendo."*
+
+**[0:34] CTA**
+📝 *"Capítulo 1. Seguime para ver cómo termina."*
+
+### Reglas para no mentir
+
+- **Lo que mostrás como pasado tiene que haber pasado.** Las frases pueden estar reconstruidas (nadie recuerda las palabras exactas), pero el hecho tiene que ser real.
+- **Lo que mostrás como futuro va marcado como futuro:** "todavía no pasó", "así me lo imagino".
+- **El video real del final muestra lo que tenés hoy:** tu escritorio, tu compu, tus números reales.
+- **Nada de autos, plata o lugares que no son tuyos** presentados como si lo fueran.
+- **Si mostrás números, que sean los reales.** Una captura de 1.000 vistas reales vale más que una de un millón inventada que alguien después desmiente en los comentarios.
+
+### Cómo sigue la serie
+
+- **Capítulo 2, 3, 4...:** cada logro nuevo o cada golpe es un capítulo. Arrancá cada uno con 2 segundos del anterior ("En el capítulo anterior...").
+- **Cuando llegues a tu objetivo,** ese capítulo usa el arco original completo, con la revancha y el video real del éxito. Y vas a tener todos los capítulos anteriores como prueba de que es verdad.
 
 ---
 
