@@ -123,4 +123,4 @@ Empezá con un código y pegá tu tema después. Sumale tus apuntes o un texto p
 4. **Preparate para el "CÓDIGOS":**
    - Si no tenés respuesta automática por mensaje privado (tipo ManyChat), respondé a mano o cambiá el cierre a "guardalo y seguime para más".
    - Configurá la palabra sin tilde también (`CODIGOS`, `codigo`), porque mucha gente la escribe así.
-   - Tené listo lo que vas a mandar (una lista o PDF con los códigos), porque si prometés algo y no llega, perdés seguidores.
+   - Tené listo lo que vas a mandar, porque si prometés algo y no llega, perdés seguidores. Ya está hecho: [100-codigos-chatgpt.pdf](100-codigos-chatgpt.pdf). Instagram no deja mandar PDF por mensaje privado, así que subilo a Google Drive con el acceso "Cualquier persona con el enlace" y mandá el link. Para cambiar los códigos, editá `pdf/codigos.json` y volvé a generarlo con `NODE_PATH="$(npm root -g)" node pdf/generar.cjs`.

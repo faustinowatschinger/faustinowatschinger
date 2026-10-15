@@ -1,0 +1,172 @@
+[
+  {
+    "titulo": "Los 10 del video",
+    "subtitulo": "Para aprender cualquier cosa",
+    "emoji": "🎬",
+    "codigos": [
+      { "codigo": "COMO-SI-TUVIERA-5", "que": "Te explica cualquier tema con palabras simples y ejemplos de todos los días.", "ejemplo": "COMO-SI-TUVIERA-5 qué es la inflación" },
+      { "codigo": "80/20", "que": "Va directo al 20 % del tema que te sirve para entender el 80 %.", "ejemplo": "80/20 cómo funciona la fotosíntesis" },
+      { "codigo": "HACÉ-POST-ITS", "imagen": true, "que": "Te arma una imagen con post-its de colores que resumen el tema.", "ejemplo": "HACÉ-POST-ITS tengo prueba del Martín Fierro" },
+      { "codigo": "TÉCNICA-FEYNMAN", "que": "Te lo explica simple, te pide que lo expliques vos y te marca lo que no entendiste.", "ejemplo": "TÉCNICA-FEYNMAN la Revolución de Mayo" },
+      { "codigo": "MAPA-MENTAL", "imagen": true, "que": "Te dibuja un mapa con las ideas principales y cómo se conectan.", "ejemplo": "MAPA-MENTAL cómo armar una marca personal" },
+      { "codigo": "TOMAME-EXAMEN", "que": "Te hace preguntas de a una, te corrige y sigue hasta que lo sabés.", "ejemplo": "TOMAME-EXAMEN estoy aprendiendo Python desde cero" },
+      { "codigo": "RESUMEN-VISUAL", "imagen": true, "que": "Te resume todo el tema en una sola hoja, con dibujos.", "ejemplo": "RESUMEN-VISUAL cómo funciona el cerebro" },
+      { "codigo": "PRIMEROS-PRINCIPIOS", "que": "Desarma el tema hasta lo más básico y lo vuelve a armar desde ahí.", "ejemplo": "PRIMEROS-PRINCIPIOS cómo ganar plata por internet" },
+      { "codigo": "SÓCRATES", "que": "En vez de darte la respuesta, te hace preguntas para que llegues vos.", "ejemplo": "SÓCRATES cómo funciona la memoria" },
+      { "codigo": "HACE-ESQUEMA", "que": "Te arma un diagrama de cómo encajan las partes.", "ejemplo": "HACE-ESQUEMA por qué se hundió el Titanic" }
+    ]
+  },
+  {
+    "titulo": "Para estudiar",
+    "subtitulo": "Del primer día hasta el examen",
+    "emoji": "📚",
+    "codigos": [
+      { "codigo": "PLAN-DE-ESTUDIO", "que": "Te organiza qué estudiar cada día hasta la fecha del examen.", "ejemplo": "PLAN-DE-ESTUDIO rindo Anatomía en 3 semanas y puedo 2 horas por día" },
+      { "codigo": "FLASHCARDS", "que": "Te hace tarjetas de pregunta y respuesta para repasar.", "ejemplo": "FLASHCARDS los huesos del brazo" },
+      { "codigo": "ANALOGÍA", "que": "Te lo explica comparándolo con algo que ya conocés.", "ejemplo": "ANALOGÍA cómo funciona internet, con ejemplos de fútbol" },
+      { "codigo": "ERRORES-COMUNES", "que": "Te muestra lo que casi todos entienden mal de un tema.", "ejemplo": "ERRORES-COMUNES las fracciones" },
+      { "codigo": "GLOSARIO", "que": "Te arma una lista de palabras clave con una definición corta.", "ejemplo": "GLOSARIO términos de economía para el parcial" },
+      { "codigo": "LÍNEA-DE-TIEMPO", "que": "Te ordena los hechos por fecha para que veas la historia completa.", "ejemplo": "LÍNEA-DE-TIEMPO la historia argentina del siglo XX" },
+      { "codigo": "PASO-A-PASO", "que": "Resuelve un ejercicio mostrándote cada paso y por qué.", "ejemplo": "PASO-A-PASO 3x + 5 = 20" },
+      { "codigo": "PISTAS", "que": "Te da pistas en vez de la respuesta, para que lo resuelvas vos.", "ejemplo": "PISTAS este problema de física: [pegalo acá]" },
+      { "codigo": "SIMULACRO", "que": "Te toma un examen completo y al final te pone nota.", "ejemplo": "SIMULACRO 10 preguntas sobre la Primera Guerra Mundial" },
+      { "codigo": "REPASO-ESPACIADO", "que": "Te arma un calendario de repasos para no olvidarte lo que estudiaste.", "ejemplo": "REPASO-ESPACIADO terminé la unidad 3 de Biología" }
+    ]
+  },
+  {
+    "titulo": "Para pensar y decidir",
+    "subtitulo": "Cuando no sabés qué hacer",
+    "emoji": "🧠",
+    "codigos": [
+      { "codigo": "PROS-Y-CONTRAS", "que": "Te arma una tabla con las ventajas y desventajas de cada opción.", "ejemplo": "PROS-Y-CONTRAS irme a vivir solo o seguir con mis viejos" },
+      { "codigo": "ABOGADO-DEL-DIABLO", "que": "Discute contra tu idea para encontrarle los puntos flojos.", "ejemplo": "ABOGADO-DEL-DIABLO quiero dejar la facu para emprender" },
+      { "codigo": "CUADRO-COMPARATIVO", "que": "Compara dos o más cosas en una tabla, punto por punto.", "ejemplo": "CUADRO-COMPARATIVO plazo fijo o fondo común de inversión" },
+      { "codigo": "MATRIZ-DE-DECISIÓN", "que": "Puntúa cada opción según lo que más te importa y te dice cuál gana.", "ejemplo": "MATRIZ-DE-DECISIÓN tengo 3 ofertas de trabajo: [contale cuáles]" },
+      { "codigo": "PEOR-ESCENARIO", "que": "Te muestra lo peor que puede pasar y cómo prepararte.", "ejemplo": "PEOR-ESCENARIO quiero renunciar sin tener otro trabajo" },
+      { "codigo": "CINCO-PORQUÉS", "que": "Busca la causa real de un problema preguntando «¿por qué?» cinco veces.", "ejemplo": "CINCO-PORQUÉS siempre llego tarde al trabajo" },
+      { "codigo": "SEIS-SOMBREROS", "que": "Mira tu idea desde seis ángulos: datos, emociones, riesgos, beneficios, ideas nuevas y orden.", "ejemplo": "SEIS-SOMBREROS abrir un local de ropa" },
+      { "codigo": "SEGUNDO-ORDEN", "que": "Te muestra las consecuencias de las consecuencias: ¿y después qué?", "ejemplo": "SEGUNDO-ORDEN comprarme un auto en cuotas" },
+      { "codigo": "SESGOS", "que": "Te marca los errores de razonamiento en lo que estás pensando.", "ejemplo": "SESGOS esta acción va a subir porque subió toda la semana" },
+      { "codigo": "PREMORTEM", "que": "Imagina que tu plan ya fracasó y te dice por qué, para que lo evites.", "ejemplo": "PREMORTEM voy a abrir una cafetería en mi barrio" }
+    ]
+  },
+  {
+    "titulo": "Para escribir mejor",
+    "subtitulo": "Mails, mensajes y textos",
+    "emoji": "✍️",
+    "codigos": [
+      { "codigo": "CORREGIME", "que": "Corrige ortografía y gramática y te dice qué cambió.", "ejemplo": "CORREGIME [pegá tu texto]" },
+      { "codigo": "MÁS-CORTO", "que": "Dice lo mismo con la mitad de palabras.", "ejemplo": "MÁS-CORTO [pegá tu texto]" },
+      { "codigo": "MÁS-FORMAL", "que": "Pasa tu mensaje a un tono formal, para el trabajo o un trámite.", "ejemplo": "MÁS-FORMAL «che, mañana no voy, estoy re enfermo»" },
+      { "codigo": "MÁS-AMABLE", "que": "Suaviza un mensaje para que no suene enojado.", "ejemplo": "MÁS-AMABLE «te pedí el informe hace una semana»" },
+      { "codigo": "MAIL-PROFESIONAL", "que": "Te arma un mail completo, con asunto, saludo y cierre.", "ejemplo": "MAIL-PROFESIONAL pedirle a mi jefe un día libre" },
+      { "codigo": "PARA-WHATSAPP", "que": "Lo convierte en un mensaje corto y claro para mandar.", "ejemplo": "PARA-WHATSAPP avisar al grupo que se suspende la reunión" },
+      { "codigo": "CARTA-DE-RECLAMO", "que": "Te escribe un reclamo formal para una empresa.", "ejemplo": "CARTA-DE-RECLAMO me cobraron dos veces el abono de internet" },
+      { "codigo": "CON-OTRAS-PALABRAS", "que": "Reescribe un texto con otras palabras, sin cambiar la idea.", "ejemplo": "CON-OTRAS-PALABRAS [pegá el párrafo]" },
+      { "codigo": "TITULARES", "que": "Te da 10 títulos posibles para lo que escribiste.", "ejemplo": "TITULARES una nota sobre cómo ahorrar en el súper" },
+      { "codigo": "MISMO-ESTILO", "que": "Escribe imitando tu forma de escribir.", "ejemplo": "MISMO-ESTILO [pegá 2 textos tuyos] y escribí uno sobre mis vacaciones" }
+    ]
+  },
+  {
+    "titulo": "Para el trabajo",
+    "subtitulo": "Menos tiempo en tareas aburridas",
+    "emoji": "💼",
+    "codigos": [
+      { "codigo": "RESUMEN-EN-3", "que": "Te saca los 3 puntos clave de cualquier texto.", "ejemplo": "RESUMEN-EN-3 [pegá el mail o el documento]" },
+      { "codigo": "LISTA-DE-TAREAS", "que": "Convierte un lío de pendientes en tareas ordenadas por prioridad.", "ejemplo": "LISTA-DE-TAREAS [escribí todo lo que tenés que hacer, como te salga]" },
+      { "codigo": "ACTA-DE-REUNIÓN", "que": "Pasa tus notas desordenadas a un resumen con decisiones y pendientes.", "ejemplo": "ACTA-DE-REUNIÓN [pegá tus notas]" },
+      { "codigo": "MATRIZ-EISENHOWER", "que": "Separa tus tareas en: hacer ya, agendar, delegar y eliminar.", "ejemplo": "MATRIZ-EISENHOWER [pegá tu lista de tareas]" },
+      { "codigo": "PLANILLA", "que": "Te arma una tabla lista para pegar en Excel o Google Sheets.", "ejemplo": "PLANILLA para controlar los gastos de la casa" },
+      { "codigo": "FÓRMULA-EXCEL", "que": "Te da la fórmula exacta y te explica cómo usarla.", "ejemplo": "FÓRMULA-EXCEL sumar solo las ventas de marzo" },
+      { "codigo": "PLAN-DE-LA-SEMANA", "que": "Te organiza la semana con horarios realistas.", "ejemplo": "PLAN-DE-LA-SEMANA trabajo de 9 a 17, voy al gimnasio y estudio inglés" },
+      { "codigo": "PRESENTACIÓN", "que": "Te arma las diapositivas: el título y qué va en cada una.", "ejemplo": "PRESENTACIÓN los resultados del trimestre" },
+      { "codigo": "MEJORÁ-MI-CV", "que": "Mejora tu currículum para un puesto en particular.", "ejemplo": "MEJORÁ-MI-CV [pegá tu CV] para un puesto administrativo" },
+      { "codigo": "ENTREVISTA", "que": "Simula una entrevista de trabajo y te dice qué mejorar.", "ejemplo": "ENTREVISTA para vendedor en una concesionaria" }
+    ]
+  },
+  {
+    "titulo": "Para la plata y tu negocio",
+    "subtitulo": "Ordenar, vender y emprender",
+    "emoji": "💸",
+    "codigos": [
+      { "codigo": "PRESUPUESTO-MENSUAL", "que": "Ordena tus ingresos y gastos y te muestra en qué se te va la plata.", "ejemplo": "PRESUPUESTO-MENSUAL [pasale lo que ganás y lo que gastás]" },
+      { "codigo": "IDEA-DE-NEGOCIO", "que": "Te da ideas según lo que sabés hacer y la plata que tenés.", "ejemplo": "IDEA-DE-NEGOCIO sé cocinar y tengo poco para invertir" },
+      { "codigo": "VALIDAR-IDEA", "que": "Te dice cómo probar si tu idea funciona antes de invertir.", "ejemplo": "VALIDAR-IDEA vender plantas por Instagram" },
+      { "codigo": "CUÁNTO-COBRAR", "que": "Te ayuda a calcular tu precio: costos, ganancia y competencia.", "ejemplo": "CUÁNTO-COBRAR hago tortas caseras por encargo" },
+      { "codigo": "CLIENTE-IDEAL", "que": "Describe a quién le vendés, qué le preocupa y dónde encontrarlo.", "ejemplo": "CLIENTE-IDEAL mi emprendimiento de ropa deportiva" },
+      { "codigo": "PITCH", "que": "Te arma una presentación de 30 segundos de tu negocio.", "ejemplo": "PITCH hago páginas web para comercios del barrio" },
+      { "codigo": "RESPUESTA-A-CLIENTE", "que": "Responde con calma un mensaje difícil de un cliente.", "ejemplo": "RESPUESTA-A-CLIENTE se queja de que el pedido llegó tarde" },
+      { "codigo": "FODA", "que": "Fortalezas, oportunidades, debilidades y amenazas de tu proyecto.", "ejemplo": "FODA mi tienda de ropa por Instagram" },
+      { "codigo": "PLAN-DE-NEGOCIO", "que": "Te arma un plan de negocio en una sola hoja.", "ejemplo": "PLAN-DE-NEGOCIO un food truck de hamburguesas" },
+      { "codigo": "LETRA-CHICA", "que": "Te marca lo importante y lo riesgoso de un contrato o de unos términos.", "ejemplo": "LETRA-CHICA [pegá el contrato de alquiler]" }
+    ]
+  },
+  {
+    "titulo": "Para redes y contenido",
+    "subtitulo": "Ideas, guiones y textos",
+    "emoji": "📱",
+    "codigos": [
+      { "codigo": "GANCHOS", "que": "Te da 10 frases para arrancar un video y que no lo pasen.", "ejemplo": "GANCHOS un video sobre cómo ahorrar en el súper" },
+      { "codigo": "GUION-REEL", "que": "Te escribe un guion de 30 segundos: gancho, contenido y cierre.", "ejemplo": "GUION-REEL 3 errores que cometés al cebar mate" },
+      { "codigo": "IDEAS-DE-CONTENIDO", "que": "Te da 30 ideas de publicaciones para tu tema.", "ejemplo": "IDEAS-DE-CONTENIDO una cuenta de recetas fáciles" },
+      { "codigo": "CALENDARIO-DE-CONTENIDO", "que": "Te arma qué publicar cada día del mes.", "ejemplo": "CALENDARIO-DE-CONTENIDO una peluquería de barrio" },
+      { "codigo": "DESCRIPCIÓN-POST", "que": "Escribe la descripción del post con llamado a la acción y hashtags.", "ejemplo": "DESCRIPCIÓN-POST [contale de qué es tu post]" },
+      { "codigo": "CARRUSEL", "que": "Te escribe el texto de un carrusel de 7 diapositivas.", "ejemplo": "CARRUSEL 5 tips para estudiar mejor" },
+      { "codigo": "BIO", "que": "Te da 5 opciones de biografía para tu perfil.", "ejemplo": "BIO soy nutricionista y hago recetas saludables" },
+      { "codigo": "RECICLAR-CONTENIDO", "que": "Convierte un contenido en varios: post, reel, historia y mail.", "ejemplo": "RECICLAR-CONTENIDO [pegá el texto de tu último video]" },
+      { "codigo": "NOMBRE-DE-MARCA", "que": "Te propone nombres para tu marca o tu emprendimiento.", "ejemplo": "NOMBRE-DE-MARCA velas aromáticas hechas a mano" },
+      { "codigo": "PREGUNTAS-FRECUENTES", "que": "Te dice qué te va a preguntar tu público y cómo responderle.", "ejemplo": "PREGUNTAS-FRECUENTES vendo cursos de maquillaje online" }
+    ]
+  },
+  {
+    "titulo": "Para el día a día",
+    "subtitulo": "Casa, comida, viajes y más",
+    "emoji": "🏠",
+    "codigos": [
+      { "codigo": "RECETA-CON-LO-QUE-HAY", "que": "Te dice qué cocinar con lo que tenés en la heladera.", "ejemplo": "RECETA-CON-LO-QUE-HAY arroz, huevos, una cebolla y queso" },
+      { "codigo": "MENÚ-SEMANAL", "que": "Te arma el menú de la semana con la lista del súper.", "ejemplo": "MENÚ-SEMANAL para 4 personas, barato y rápido" },
+      { "codigo": "ITINERARIO", "que": "Te arma un plan de viaje día por día.", "ejemplo": "ITINERARIO 4 días en Mendoza con poca plata" },
+      { "codigo": "ENTRENAMIENTO", "que": "Te arma una rutina de ejercicio para tu nivel y tu tiempo.", "ejemplo": "ENTRENAMIENTO 3 veces por semana en casa, sin pesas" },
+      { "codigo": "REGALO", "que": "Te da ideas de regalo según la persona y lo que querés gastar.", "ejemplo": "REGALO para mi viejo, le gustan el asado y el fútbol" },
+      { "codigo": "ORDENAR-LA-CASA", "que": "Te arma un plan para ordenar de a poco, sin volverte loco.", "ejemplo": "ORDENAR-LA-CASA un depto de 2 ambientes" },
+      { "codigo": "CONVERSACIÓN-DIFÍCIL", "que": "Te ayuda a preparar una charla incómoda: qué decir y cómo.", "ejemplo": "CONVERSACIÓN-DIFÍCIL pedirle a mi compañero de depto que limpie más" },
+      { "codigo": "NUEVO-HÁBITO", "que": "Te arma un plan para empezar un hábito de a poco.", "ejemplo": "NUEVO-HÁBITO quiero leer todos los días" },
+      { "codigo": "EN-CRIOLLO", "que": "Te traduce a palabras simples un texto difícil: del banco, del médico o legal.", "ejemplo": "EN-CRIOLLO [pegá el texto]" },
+      { "codigo": "ARREGLALO-VOS", "que": "Te explica paso a paso cómo arreglar algo de la casa.", "ejemplo": "ARREGLALO-VOS gotea la canilla de la cocina" }
+    ]
+  },
+  {
+    "titulo": "Para aprender idiomas",
+    "subtitulo": "Tu profe, las 24 horas",
+    "emoji": "🌎",
+    "codigos": [
+      { "codigo": "PROFE-DE-INGLÉS", "que": "Charla con vos en inglés y te corrige los errores.", "ejemplo": "PROFE-DE-INGLÉS hablemos de mi trabajo, nivel básico" },
+      { "codigo": "TRADUCCIÓN-NATURAL", "que": "Traduce como lo diría una persona, no palabra por palabra.", "ejemplo": "TRADUCCIÓN-NATURAL «me re colgué, perdón»" },
+      { "codigo": "PRONUNCIACIÓN", "que": "Te dice cómo se pronuncia una palabra, escrito como suena.", "ejemplo": "PRONUNCIACIÓN thoroughly" },
+      { "codigo": "VOCABULARIO", "que": "Te da las 20 palabras más útiles de un tema, con ejemplos.", "ejemplo": "VOCABULARIO inglés para viajar" },
+      { "codigo": "ROLEPLAY", "que": "Simula una situación real para que practiques.", "ejemplo": "ROLEPLAY pedir comida en un restaurante de Londres" },
+      { "codigo": "GRAMÁTICA-SIMPLE", "que": "Te explica una regla con ejemplos fáciles.", "ejemplo": "GRAMÁTICA-SIMPLE cuándo uso «since» y cuándo «for»" },
+      { "codigo": "CORRECCIÓN-EN-INGLÉS", "que": "Corrige tu texto en inglés y te explica cada error.", "ejemplo": "CORRECCIÓN-EN-INGLÉS [pegá tu texto]" },
+      { "codigo": "FALSOS-AMIGOS", "que": "Te muestra palabras que parecen iguales en dos idiomas y no lo son.", "ejemplo": "FALSOS-AMIGOS inglés y español" },
+      { "codigo": "TEST-DE-NIVEL", "que": "Te toma una prueba corta para saber tu nivel.", "ejemplo": "TEST-DE-NIVEL de inglés, una pregunta a la vez" },
+      { "codigo": "FRASES-HECHAS", "que": "Te enseña expresiones que usan los nativos.", "ejemplo": "FRASES-HECHAS en inglés, para el trabajo" }
+    ]
+  },
+  {
+    "titulo": "Para mejorar cualquier respuesta",
+    "subtitulo": "Sumalos a cualquier otro código",
+    "emoji": "⚡",
+    "codigos": [
+      { "codigo": "EN-TABLA", "que": "Te da la respuesta ordenada en una tabla.", "ejemplo": "COMO-SI-TUVIERA-5 + EN-TABLA los planetas" },
+      { "codigo": "EN-PUNTOS", "que": "Te responde en puntos cortos, fáciles de leer.", "ejemplo": "EN-PUNTOS las causas de la Revolución Francesa" },
+      { "codigo": "CON-EJEMPLOS", "que": "Suma ejemplos concretos a cualquier explicación.", "ejemplo": "80/20 + CON-EJEMPLOS marketing digital" },
+      { "codigo": "NIVEL-EXPERTO", "que": "Te responde con más profundidad y detalle técnico.", "ejemplo": "NIVEL-EXPERTO cómo funciona la inflación" },
+      { "codigo": "PREGUNTAME-PRIMERO", "que": "Antes de responder, te hace preguntas para entender qué necesitás.", "ejemplo": "PREGUNTAME-PRIMERO quiero organizar un viaje por el sur" },
+      { "codigo": "SIN-VUELTAS", "que": "Va directo a la respuesta, sin introducciones.", "ejemplo": "SIN-VUELTAS ¿me conviene alquilar o comprar?" },
+      { "codigo": "SIN-CHAMUYO", "que": "Te dice la verdad aunque no te guste, sin darte la razón para quedar bien.", "ejemplo": "SIN-CHAMUYO [pegá tu idea o tu texto]" },
+      { "codigo": "CON-FUENTES", "que": "Busca en internet y te deja los links para que lo chequees.", "ejemplo": "CON-FUENTES cuántas horas tiene que dormir un adulto" },
+      { "codigo": "COMO-EXPERTO-EN", "que": "Te responde como un especialista en el tema que elijas.", "ejemplo": "COMO-EXPERTO-EN nutrición, ¿qué como antes de entrenar?" },
+      { "codigo": "MEJORÁ-MI-PROMPT", "que": "Reescribe lo que le ibas a pedir para que la respuesta salga mucho mejor.", "ejemplo": "MEJORÁ-MI-PROMPT [pegá lo que le ibas a pedir]" }
+    ]
+  }
+]
